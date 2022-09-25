@@ -1,0 +1,27 @@
+{
+  "name": "11ty-plugin-vite-sitemap-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eleventy.js",
+  "scripts": {
+    "dev": "npx @11ty/eleventy --serve --incremental",
+    "build": "npx @11ty/eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andystevenson/11ty-plugin-vite-sitemap-issue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andystevenson/11ty-plugin-vite-sitemap-issue/issues"
+  },
+  "homepage": "https://github.com/andystevenson/11ty-plugin-vite-sitemap-issue#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.0-canary.16"
+  },
+  "devDependencies": {
+    "@11ty/eleventy-plugin-vite": "^1.0.0"
+  }
+}
